@@ -1,0 +1,32 @@
+{
+  "name": "add-products-express-mongodb",
+  "version": "1.0.0",
+  "description": "Add Product with Express.js / MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayirdan/add-products-express-mongodb.git"
+  },
+  "keywords": [
+    "express.js",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "bayirdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bayirdan/add-products-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/bayirdan/add-products-express-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
